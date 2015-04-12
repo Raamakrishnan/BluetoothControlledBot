@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ArduinoBtSl
+</name>
+</assembly>
+<members>
+<member name="M:ArduinoBtSl.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:ArduinoBtSl.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
+</member><member name="M:ArduinoBtSl.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:ArduinoBtSl.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:ArduinoBtSl.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="P:ArduinoBtSl.AppResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.ResourceFlowDirection">
+	<summary>
+  Looks up a localized string similar to LeftToRight.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.ResourceLanguage">
+	<summary>
+  Looks up a localized string similar to us-EN.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.ApplicationTitle">
+	<summary>
+  Looks up a localized string similar to MY APPLICATION.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.AppBarButtonText">
+	<summary>
+  Looks up a localized string similar to button.
+</summary>
+</member><member name="P:ArduinoBtSl.AppResources.AppBarMenuItemText">
+	<summary>
+  Looks up a localized string similar to Menu Item.
+</summary>
+</member><member name="T:ArduinoBtSl.AppResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
