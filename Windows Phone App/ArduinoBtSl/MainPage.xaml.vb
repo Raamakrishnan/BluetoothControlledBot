@@ -82,7 +82,7 @@ Partial Public Class MainPage
 	End Sub
 
 	Private Async Sub btnFwd_Click(sender As Object, e As RoutedEventArgs) Handles btnFwd.Click
-		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("W"))
+		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("A"))
 		Await bt.OutputStream.WriteAsync(datab)
 	End Sub
 
@@ -92,7 +92,7 @@ Partial Public Class MainPage
 	End Sub
 
 	Private Async Sub btnLeft_Click(sender As Object, e As RoutedEventArgs) Handles btnLeft.Click
-		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("A"))
+		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("C"))
 		Await bt.OutputStream.WriteAsync(datab)
 	End Sub
 
@@ -102,7 +102,7 @@ Partial Public Class MainPage
 	End Sub
 
 	Private Async Sub btnBwd_Click(sender As Object, e As RoutedEventArgs) Handles btnBwd.Click
-		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("S"))
+		Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("B"))
 		Await bt.OutputStream.WriteAsync(datab)
 	End Sub
 End Class
