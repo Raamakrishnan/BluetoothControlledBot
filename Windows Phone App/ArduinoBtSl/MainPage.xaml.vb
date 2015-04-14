@@ -1,4 +1,4 @@
-﻿Imports System
+Imports System
 Imports System.Threading
 Imports System.Windows.Controls
 Imports Microsoft.Phone.Controls
@@ -54,13 +54,7 @@ Partial Public Class MainPage
 	End Sub
 
 	Private Async Sub btnHello_Click(sender As Object, e As RoutedEventArgs) Handles btnHello.Click
-		'PeerFinder.AlternateIdentities("Bluetooth:Paired") = ""
-		'Dim pf = Await PeerFinder.FindAllPeersAsync()
-		'bt = New StreamSocket
-		'Dim a As new PeerInformation = TryCast(lstAllPeers.SelectedItem, PeerInformation)
-		'Await bt.ConnectAsync(pf(lstAllPeers.SelectedIndex).HostName, "1")
-
-		If bt IsNot Nothing Then
+			If bt IsNot Nothing Then
 			Dim datab = GetBufferFromByteArray(Text.Encoding.UTF8.GetBytes("Hello"))
 			Await bt.OutputStream.WriteAsync(datab)
 			MessageBox.Show("Sent")
@@ -75,7 +69,6 @@ Partial Public Class MainPage
 			PeerFinder.AlternateIdentities("Bluetooth:Paired") = ""
 			Dim pf = Await PeerFinder.FindAllPeersAsync()
 			bt = New StreamSocket
-			'Dim a As new PeerInformation = TryCast(lstAllPeers.SelectedItem, PeerInformation)
 			Await bt.ConnectAsync(pf(lstAllPeers.SelectedIndex).HostName, "1")
 
 		End If
