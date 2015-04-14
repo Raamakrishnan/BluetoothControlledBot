@@ -19,3 +19,24 @@ E:\Windows Phone Development\Pratice Projects\ArduinoBtSl\obj\Debug\ArduinoBtSl.
 E:\Windows Phone Development\Pratice Projects\ArduinoBtSl\obj\Debug\ArduinoBtSl.xml
 E:\Windows Phone Development\Pratice Projects\ArduinoBtSl\obj\Debug\ArduinoBtSl.pdb
 E:\Windows Phone Development\Pratice Projects\ArduinoBtSl\obj\Debug\XapCacheFile.xml
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\ApplicationIcon.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\ArduinoBtSl.dll
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\ArduinoBtSl.pdb
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\ArduinoBtSl.xml
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\AppManifest.xaml
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\My Project\WMAppManifest.xml
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\Bin\Debug\ArduinoBtSl_Debug_AnyCPU.xap
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\App.g.i.vb
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\MainPage.g.i.vb
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.g.resources
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.AppResources.resources
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.vbproj.GenerateResource.Cache
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.dll
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.xml
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\ArduinoBtSl.pdb
+D:\GitHub Repositories\BluetoothControlledBot\Windows Phone App\ArduinoBtSl\obj\Debug\XapCacheFile.xml

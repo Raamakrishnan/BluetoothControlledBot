@@ -6,18 +6,10 @@ ArduinoBtSl
 </name>
 </assembly>
 <members>
-<member name="M:ArduinoBtSl.MainPage.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:ArduinoBtSl.LocalizedStrings">
+<member name="T:ArduinoBtSl.LocalizedStrings">
 	<summary>
  Provides access to string resources.
  </summary>
-</member><member name="M:ArduinoBtSl.App.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
 </member><member name="P:ArduinoBtSl.App.RootFrame">
 	<summary>
  Provides easy access to the root frame of the Phone Application.
@@ -27,6 +19,14 @@ InitializeComponent
 	<summary>
  Constructor for the Application object.
  </summary>
+</member><member name="M:ArduinoBtSl.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:ArduinoBtSl.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
 </member><member name="P:ArduinoBtSl.AppResources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
